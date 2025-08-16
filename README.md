@@ -17,7 +17,7 @@
 - 📚 Estudando programação com foco em desenvolvimento back-end
 - 🔁 Em transição de carreira para a área de programação
 - 🌱 Apaixonado por aprender e construir soluções úteis
-- 📫 Conecte-se comigo: [LinkedIn](www.linkedin.com/in/wiston-da-silva-holanda-7936bb265)
+- 📫 Conecte-se comigo: www.linkedin.com/in/wiston-da-silva-holanda-7936bb265
 
 ### 🛠️ Tecnologias que estou aprendendo
 
