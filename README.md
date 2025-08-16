@@ -23,6 +23,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ---
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=holanda-pqdt&layout=compact&theme=dracula)
+---
 
 ### 📊 GitHub Stats
 
