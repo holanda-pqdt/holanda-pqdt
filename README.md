@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Wiston da Silva Holanda!
 
-- 🔭  Hoje Trabalho com suporte de TI
-- 🌱 Atualmente estudando programação (python)
 
 <h1 align="center">Olá! 👋 Eu Me Chamo Wiston da Silva Holanda</h1>
 
