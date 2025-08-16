@@ -3,29 +3,36 @@
 - 🔭  Hoje Trabalho com suporte de TI
 - 🌱 Atualmente estudando programação (python)
 
-name: Generate Datas
+<h1 align="center">Olá! 👋 Sou [Seu Nome]</h1>
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+<p align="center">
+  💻 Estudante de programação | 🎯 Foco em back-end | 🎖️ Militar da ativa no Exército Brasileiro  
+</p>
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: holanda-pqdt
-          svg_out_path: dist/github-contribution-grid-snake.svg
+---
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+### 🚀 Sobre mim
+
+- 🎖️ Atuo com suporte técnico em TI no EB
+- 📚 Estudando programação com foco em desenvolvimento back-end
+- 🔁 Em transição de carreira para a área de programação
+- 🌱 Apaixonado por aprender e construir soluções úteis
+- 📫 Conecte-se comigo: [LinkedIn](www.linkedin.com/in/wiston-da-silva-holanda-7936bb265)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/github-contribution-grid-snake.svg" alt="cobrinha animada" />
+</div>
+
