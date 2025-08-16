@@ -3,7 +3,7 @@
 - 🔭  Hoje Trabalho com suporte de TI
 - 🌱 Atualmente estudando programação (python)
 
-<h1 align="center">Olá! 👋 Me Chamo Wiston da Silva Holanda</h1>
+<h1 align="center">Olá! 👋 Eu Me Chamo Wiston da Silva Holanda</h1>
 
 <p align="center">
   💻 Estudante de programação | 🎯 Foco em back-end | 🎖️ Militar da ativa no Exército Brasileiro  
@@ -34,8 +34,4 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/github-contribution-grid-snake.svg" alt="cobrinha animada" />
-</div>
