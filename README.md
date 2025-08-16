@@ -3,7 +3,7 @@
 - 🔭  Hoje Trabalho com suporte de TI
 - 🌱 Atualmente estudando programação (python)
 
-<h1 align="center">Olá! 👋 Sou [Seu Nome]</h1>
+<h1 align="center">Olá! 👋 Me Chamo Wiston da Silva Holanda</h1>
 
 <p align="center">
   💻 Estudante de programação | 🎯 Foco em back-end | 🎖️ Militar da ativa no Exército Brasileiro  
@@ -19,6 +19,9 @@
 - 🌱 Apaixonado por aprender e construir soluções úteis
 - 📫 Conecte-se comigo: [LinkedIn](www.linkedin.com/in/wiston-da-silva-holanda-7936bb265)
 
+### 🛠️ Tecnologias que estou aprendendo
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
