@@ -23,8 +23,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ---
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=holanda-pqdt&layout=compact&theme=dracula)
----
+
 
 ### 📊 GitHub Stats
 
@@ -40,4 +39,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/seuusuario/seuusuario/output/github-contribution-grid-snake.svg" alt="cobrinha animada" />
 </div>
-
