@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎖️ Atuo com suporte técnico em TI no EB
+- 🎖️ Atuo como suporte técnico em TI no EB
 - 📚 Estudando programação com foco em desenvolvimento back-end
 - 🔁 Em transição de carreira para a área de programação
 - 🌱 Apaixonado por aprender e construir soluções úteis
