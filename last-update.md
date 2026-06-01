@@ -1,2 +1,2 @@
-# Última atualização: Sun May 31 08:54:17 UTC 2026
+# Última atualização: Mon Jun  1 11:47:40 UTC 2026
 🔄 Esta página atualiza automaticamente!
